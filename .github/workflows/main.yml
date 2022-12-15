@@ -1,12 +1,12 @@
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
-name: Python application
+name: Run Python Script
 
 on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '50 15 * * *'
+    - cron: '05 16 * * *' # UTC 时间 16:05 北京时间大约 00:05
 
 jobs:
   build:
@@ -38,7 +38,7 @@ jobs:
         git config --global user.name lmmsoft
         git add .
         #git commit -m"action:`date +'%Y-%m-%d'`"
-        git commit -m "action: `date +'%Y-%m-%d %H:%M'`"
+        git commit -m "action: `date +'%Y-%m-%d %H:%M %z %Z'`"
         git pull --rebase
 
     - name: Push changes
