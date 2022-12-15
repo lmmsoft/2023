@@ -38,7 +38,7 @@ jobs:
         git config --global user.name lmmsoft
         git add .
         #git commit -m"action:`date +'%Y-%m-%d'`"
-        git commit -m "action: `date`"
+        git commit -m "action: `date +'%Y-%m-%d %H:%M'`"
         git pull --rebase
 
     - name: Push changes
