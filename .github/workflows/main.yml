@@ -18,10 +18,10 @@ jobs:
     - name: Check out repo
       uses: actions/checkout@v2
       
-    - name: Set up Python 3.9
-      uses: actions/setup-python@v2
+    - name: Set up Python 3.11 # https://github.com/actions/setup-python
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.9
+        python-version: 3.11
         
     - name: Install requirements dependencies
       run: |
