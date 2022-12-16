@@ -15,6 +15,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Setup timezone # https://github.com/marketplace/actions/setup-timezone
+      uses: zcong1993/setup-timezone@master
+      with:
+        timezone: Asia/Shanghai
+        
     - name: Check out repo
       uses: actions/checkout@v2
       
