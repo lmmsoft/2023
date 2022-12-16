@@ -20,3 +20,12 @@ locations,employments,gender,educations,business,voteup_count,thanked_Count,foll
 - [x] 更全的数据列
 - [x] 中国时区
 - [x] pip 缓存
+
+## 哔哩哔哩
+- 功能：通过 API 获取用户信息，写入文件，每日定时触发
+- 脚本： bilibili.py
+- 参考项目: https://github.com/guodongxiaren/py/tree/master/bilibili
+- API文档：
+  - https://www.cnblogs.com/sleepday/p/15309771.html
+  - https://zhuanlan.zhihu.com/p/210779665 (全)
+- curl to requests 工具： https://curlconverter.com/
