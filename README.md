@@ -18,5 +18,5 @@ locations,employments,gender,educations,business,voteup_count,thanked_Count,foll
 ```
 - 功能列表
 - [ ] 更全的数据
-- [ ] 中国时区
-- [ ] pip 缓存
+- [x] 中国时区
+- [x] pip 缓存
