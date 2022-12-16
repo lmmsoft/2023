@@ -1,3 +1,5 @@
+[![Run Python Script](https://github.com/lmmsoft/2023/actions/workflows/main.yml/badge.svg)](https://github.com/lmmsoft/2023/actions/workflows/main.yml)
+
 # 2023
 创建一个项目，用自动化的方式，记录我的2023年
 
