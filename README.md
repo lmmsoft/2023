@@ -20,6 +20,7 @@ locations,employments,gender,educations,business,voteup_count,thanked_Count,foll
 - [x] 更全的数据列
 - [x] 中国时区
 - [x] pip 缓存
+- [ ] csv里日期逆序，上面是最近日期；可以把文件反过来，增加，再返回去
 
 ## 哔哩哔哩
 - 功能：通过 API 获取用户信息，写入文件，每日定时触发
