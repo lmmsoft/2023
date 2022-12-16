@@ -5,8 +5,8 @@
     "articles_count": 0,
     "available_medals_count": 0,
     "avatar_hue": "",
-    "avatar_url": "https://picx.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
-    "avatar_url_template": "https://picx.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
+    "avatar_url": "https://pic1.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
+    "avatar_url_template": "https://pica.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
     "badge": [],
     "badge_v2": {
         "detail_badges": [],
@@ -16,7 +16,7 @@
         "title": ""
     },
     "business": {
-        "avatar_url": "https://pic1.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
+        "avatar_url": "https://picx.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
         "id": "19550517",
         "name": "互联网",
         "type": "topic",
@@ -59,7 +59,7 @@
     "is_realname": true,
     "locations": [
         {
-            "avatar_url": "https://picx.zhimg.com/v2-c4ea2cf2874e37de62190e781529b3dd_l.jpg?source=32738c0c",
+            "avatar_url": "https://pic1.zhimg.com/v2-c4ea2cf2874e37de62190e781529b3dd_l.jpg?source=32738c0c",
             "id": "19550818",
             "name": "上海",
             "type": "topic",
@@ -91,7 +91,7 @@
         "widget": {
             "id": "40017",
             "night_mode_url": "https://pic1.zhimg.com/v2-a1eda7a6043cc2f390e67bc8c7095270.jpg?source=88ceefae",
-            "url": "https://picx.zhimg.com/v2-028c47f81a131d65becd1ab9a89f479e.jpg?source=88ceefae"
+            "url": "https://pic1.zhimg.com/v2-028c47f81a131d65becd1ab9a89f479e.jpg?source=88ceefae"
         }
     },
     "vote_from_count": 0,
