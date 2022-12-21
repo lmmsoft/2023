@@ -57,3 +57,17 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.ACTION_TOKEN }}
+    
+    - name: Send Feishu text message # https://github.com/marketplace/actions/feishu-bot-action
+      uses: foxundermoon/feishu-action@v2
+      with:
+        url: ${{ secrets.FEISHU_BOT_WEBHOOK_URL }}
+        msg_type: text
+        content: |
+          text: |
+            hahahah
+            from github action test
+            repository: ${{ github.repository }}
+            committer: ${{ github.actor }}
+            compare: ${{ github.event.compare }}
+            job status: ${{ job.status }}
