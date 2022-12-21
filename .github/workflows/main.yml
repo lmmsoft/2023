@@ -1,6 +1,6 @@
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
-name: Run Python Script
+name: Run Daily Python Script
 
 on:
   push:
@@ -65,7 +65,7 @@ jobs:
         msg_type: text
         content: |
           text: |
-            github action: ${{ github.workflow }} 
+            workflow: ${{ github.workflow }} 
             repository: ${{ github.repository }} 
             committer: ${{ github.actor }}
             compare: ${{ github.event.compare }}
