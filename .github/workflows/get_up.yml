@@ -30,5 +30,4 @@ jobs:
       
       - name: GET UP
         run: |
-          source venv/bin/activate
           python get_up.py ${{ secrets.ACTION_TOKEN }} ${{ github.repository }} --weather_message ": ${{ github.event.inputs.message }}" 
