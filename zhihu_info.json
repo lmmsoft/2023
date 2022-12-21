@@ -5,8 +5,8 @@
     "articles_count": 0,
     "available_medals_count": 0,
     "avatar_hue": "",
-    "avatar_url": "https://pica.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
-    "avatar_url_template": "https://pic1.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
+    "avatar_url": "https://picx.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
+    "avatar_url_template": "https://pica.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
     "badge": [],
     "badge_v2": {
         "detail_badges": [],
@@ -90,7 +90,7 @@
         "vip_type": 1,
         "widget": {
             "id": "40017",
-            "night_mode_url": "https://pic1.zhimg.com/v2-a1eda7a6043cc2f390e67bc8c7095270.jpg?source=88ceefae",
+            "night_mode_url": "https://picx.zhimg.com/v2-a1eda7a6043cc2f390e67bc8c7095270.jpg?source=88ceefae",
             "url": "https://picx.zhimg.com/v2-028c47f81a131d65becd1ab9a89f479e.jpg?source=88ceefae"
         }
     },
