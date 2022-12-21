@@ -38,3 +38,4 @@ locations,employments,gender,educations,business,voteup_count,thanked_Count,foll
 进度
 - [x] 起床时间API记录
 - [ ] 起床时间统计
+- [ ] 发送消息到第三方IM
