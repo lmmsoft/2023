@@ -5,11 +5,10 @@ import argparse
 import requests
 import pendulum
 
-
 from github import Github
 
 # 14 for test 12 real get up
-GET_UP_ISSUE_NUMBER = 1   
+GET_UP_ISSUE_NUMBER = 1
 GET_UP_MESSAGE_TEMPLATE = (
     "今天的起床时间是--{get_up_time}.\r\n\r\n 懒猪🐷起床啦，赶紧去跑步，上班不迟到。\r\n\r\n 今天的一句诗:\r\n {sentence}"
 )
@@ -50,7 +49,7 @@ def make_get_up_message():
     sentence = get_one_sentence()
     now = pendulum.now(TIMEZONE)
     # 3 - 7 means early for me
-    is_get_up_early = 6 <= now.hour <= 18    
+    is_get_up_early = 6 <= now.hour <= 18
     get_up_time = now.to_datetime_string()
     body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, sentence=sentence)
     return body, is_get_up_early
@@ -69,7 +68,7 @@ def main(github_token, repo_name, weather_message, tele_token, tele_chat_id):
     if weather_message:
         weather_message = f"现在的天气是{weather_message}\n"
         body = weather_message + early_message
-    if is_get_up_early:
+    if True:
         issue.create_comment(body)
         # send to telegram
         if tele_token and tele_chat_id:
