@@ -3,7 +3,7 @@
 # 2023
 创建一个项目，用自动化的方式，记录我的2023年
 
-## 知乎
+## 1. 知乎
 - 功能：通过 API 获取用户信息，写入文件，每日定时触发
 - 脚本： zhihu.py
 - 参考项目: https://github.com/guodongxiaren/py/tree/master/zhihu
@@ -22,7 +22,7 @@ locations,employments,gender,educations,business,voteup_count,thanked_Count,foll
 - [x] pip 缓存
 - [ ] csv里日期逆序，上面是最近日期；可以把文件反过来，增加，再返回去
 
-## 哔哩哔哩
+## 2. 哔哩哔哩
 - 功能：通过 API 获取用户信息，写入文件，每日定时触发
 - 脚本： bilibili.py
 - 参考项目: https://github.com/guodongxiaren/py/tree/master/bilibili
@@ -31,6 +31,10 @@ locations,employments,gender,educations,business,voteup_count,thanked_Count,foll
   - https://zhuanlan.zhihu.com/p/210779665 (全)
 - curl to requests 工具： https://curlconverter.com/
 
-## 起床时间
+## 3. 起床时间
 - 参考项目 https://github.com/phh95/get_up
 - 参考文档 https://mp.weixin.qq.com/s/vvryaBHCZVjHyqjt1f7ylA
+
+进度
+- [x] 起床时间API记录
+- [ ] 起床时间统计
