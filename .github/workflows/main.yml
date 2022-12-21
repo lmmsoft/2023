@@ -65,7 +65,7 @@ jobs:
         msg_type: text
         content: |
           text: |
-            github action: ${{ name }} 
+            github action: ${{ github.workflow }} 
             repository: ${{ github.repository }} 
             committer: ${{ github.actor }}
             compare: ${{ github.event.compare }}
