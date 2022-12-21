@@ -59,15 +59,14 @@ jobs:
         github_token: ${{ secrets.ACTION_TOKEN }}
     
     - name: Send Feishu text message # https://github.com/marketplace/actions/feishu-bot-action
-      uses: foxundermoon/feishu-action@v2
+      uses: foxundermoon/feishu-action@v2 # 上下文 https://docs.github.com/en/actions/learn-github-actions/contexts
       with:
         url: ${{ secrets.FEISHU_BOT_WEBHOOK_URL }}
         msg_type: text
         content: |
           text: |
-            hahahah
-            from github action test
-            repository: ${{ github.repository }}
+            github action: ${{ github.action }} 
+            repository: ${{ github.repository }} 
             committer: ${{ github.actor }}
             compare: ${{ github.event.compare }}
             job status: ${{ job.status }}
