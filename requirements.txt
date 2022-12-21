@@ -1,1 +1,6 @@
+# zhihu, bilibili, get_up
 requests==2.28.1
+
+# get_up
+PyGithub==1.57
+pendulum==2.1.2

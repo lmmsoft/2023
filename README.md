@@ -30,3 +30,7 @@ locations,employments,gender,educations,business,voteup_count,thanked_Count,foll
   - https://www.cnblogs.com/sleepday/p/15309771.html
   - https://zhuanlan.zhihu.com/p/210779665 (全)
 - curl to requests 工具： https://curlconverter.com/
+
+## 起床时间
+- 参考项目 https://github.com/phh95/get_up
+- 参考文档 https://mp.weixin.qq.com/s/vvryaBHCZVjHyqjt1f7ylA
