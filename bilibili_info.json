@@ -7,7 +7,7 @@
     },
     "birthday": "03-16",
     "black": 1,
-    "coins": 845,
+    "coins": 846,
     "contract": {
         "is_display": false,
         "is_follow_display": false
@@ -31,7 +31,7 @@
         "wear": false
     },
     "follower": 3,
-    "following": 260,
+    "following": 261,
     "gaia_data": null,
     "gaia_res_type": 0,
     "is_followed": false,
