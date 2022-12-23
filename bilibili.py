@@ -35,27 +35,32 @@ def append_file(file_name, text):
         f.write(text)
 
 
-def fetch(url):
-    resp = requests.get(url, cookies=cookies, headers=header)
+def fetch(url, need_cookies=False):
+    resp = requests.get(url, cookies=cookies if need_cookies else None, headers=header)
     return resp.json()
 
 
 json_personal_info = fetch(f'https://api.bilibili.com/x/space/acc/info?mid={UID}')  # 不要登陆
 
-json_dict1 = fetch(f'https://api.bilibili.com/x/relation/stat?vmid={UID}')  # 不要登陆
+json_follow_dict = fetch(f'https://api.bilibili.com/x/relation/stat?vmid={UID}')  # 不要登陆
 
-follower = json_dict1['data']['follower']
-following = json_dict1['data']['following']
-whisper = json_dict1['data']['whisper']
-black = json_dict1['data']['black']
+follower = json_follow_dict['data']['follower']
+following = json_follow_dict['data']['following']
+whisper = json_follow_dict['data']['whisper']
+black = json_follow_dict['data']['black']
 
-json_dict2 = fetch(f'https://api.bilibili.com/x/space/upstat?mid=385883467')  # 这个需要登陆
+json_view_dict = fetch(f'https://api.bilibili.com/x/space/upstat?mid={UID}', need_cookies=True)  # 这个需要登陆
 
-archive_view = json_dict2['data']['archive']['view']
-article_view = json_dict2['data']['article']['view']
-likes = json_dict2['data']['likes']
+if json_view_dict['data']:
+    archive_view = json_view_dict['data']['archive']['view']
+    article_view = json_view_dict['data']['article']['view']
+    likes = json_view_dict['data']['likes']
+else:
+    archive_view = -1
+    article_view = -1
+    likes = -1
 
-date = datetime.datetime.now().strftime('%Y-%m-%d')
+date_str = datetime.datetime.now().strftime('%Y-%m-%d')
 
 title_list = [
     '关注数',
@@ -71,13 +76,13 @@ title_line_str = ', '.join(title_list)
 title_line_str = '日期, ' + title_line_str + '\n'
 print(title_line_str)
 
-data_line_str = f"{date}, {following}, {follower}, {whisper}, {black}, {archive_view}, {likes}, {article_view}\n"
+data_line_str = f"{date_str}, {following}, {follower}, {whisper}, {black}, {archive_view}, {likes}, {article_view}\n"
 print(data_line_str)
 
 append_file(FILE_NAME_DATA, data_line_str)
 
-d1 = json_dict1['data']
-d2 = json_dict2['data']
+d1 = json_follow_dict['data']
+d2 = json_view_dict['data']
 json_personal_info = json_personal_info['data']
 json_personal_info.update(d1)
 json_personal_info.update(d2)
