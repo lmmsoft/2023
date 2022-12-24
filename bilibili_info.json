@@ -5,13 +5,10 @@
     "article": {
         "view": 0
     },
-    "birthday": "03-16",
-    "black": 1,
-    "coins": 840,
-    "contract": {
-        "is_display": false,
-        "is_follow_display": false
-    },
+    "birthday": "",
+    "black": 0,
+    "coins": 0,
+    "contract": null,
     "elec": {
         "show_info": {
             "icon": "",
@@ -27,7 +24,7 @@
     "fans_badge": false,
     "fans_medal": {
         "medal": null,
-        "show": true,
+        "show": false,
         "wear": false
     },
     "follower": 3,
@@ -81,7 +78,7 @@
         "show_upgrade_window": false,
         "user_upgrade_status": 3
     },
-    "sex": "女",
+    "sex": "保密",
     "sign": "感觉自己萌萌哒~",
     "silence": 0,
     "sys_notice": {},
