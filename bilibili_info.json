@@ -1,10 +1,4 @@
 {
-    "archive": {
-        "view": 68
-    },
-    "article": {
-        "view": 0
-    },
     "birthday": "",
     "black": 0,
     "coins": 0,
@@ -28,7 +22,7 @@
         "wear": false
     },
     "follower": 3,
-    "following": 270,
+    "following": 273,
     "gaia_data": null,
     "gaia_res_type": 0,
     "is_followed": false,
@@ -36,7 +30,6 @@
     "is_senior_member": 0,
     "jointime": 0,
     "level": 4,
-    "likes": 4,
     "live_room": null,
     "mcn_info": null,
     "mid": 385883467,
@@ -84,7 +77,7 @@
     "sys_notice": {},
     "tags": null,
     "theme": {},
-    "top_photo": "http://i0.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png",
+    "top_photo": "http://i2.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png",
     "user_honour_info": {
         "colour": null,
         "mid": 0,
