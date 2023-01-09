@@ -5,7 +5,7 @@
     "articles_count": 0,
     "available_medals_count": 0,
     "avatar_hue": "",
-    "avatar_url": "https://pic1.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
+    "avatar_url": "https://picx.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
     "avatar_url_template": "https://pic1.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
     "badge": [],
     "badge_v2": {
@@ -16,7 +16,7 @@
         "title": ""
     },
     "business": {
-        "avatar_url": "https://picx.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
+        "avatar_url": "https://pica.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
         "id": "19550517",
         "name": "互联网",
         "type": "topic",
@@ -24,13 +24,13 @@
     },
     "columns_count": 0,
     "commercial_question_count": 0,
-    "cover_url": "https://picx.zhimg.com/v2-409c0e6ac1fd6fd6d82ab34e97a27dd5_r.jpg?source=32738c0c",
+    "cover_url": "https://pic1.zhimg.com/v2-409c0e6ac1fd6fd6d82ab34e97a27dd5_r.jpg?source=32738c0c",
     "description": "",
     "educations": [],
     "employments": [],
     "favorite_count": 9,
-    "favorited_count": 6628,
-    "follower_count": 6289,
+    "favorited_count": 6629,
+    "follower_count": 6290,
     "following_columns_count": 79,
     "following_count": 1575,
     "following_favlists_count": 21,
@@ -59,7 +59,7 @@
     "is_realname": true,
     "locations": [
         {
-            "avatar_url": "https://pic1.zhimg.com/v2-c4ea2cf2874e37de62190e781529b3dd_l.jpg?source=32738c0c",
+            "avatar_url": "https://picx.zhimg.com/v2-c4ea2cf2874e37de62190e781529b3dd_l.jpg?source=32738c0c",
             "id": "19550818",
             "name": "上海",
             "type": "topic",
@@ -75,7 +75,7 @@
     "question_count": 21,
     "thank_from_count": 0,
     "thank_to_count": 0,
-    "thanked_count": 1796,
+    "thanked_count": 1797,
     "type": "people",
     "url": "https://www.zhihu.com/api/v4/people/mm.lou",
     "url_token": "mm.lou",
@@ -90,7 +90,7 @@
         "vip_type": 1,
         "widget": {
             "id": "40017",
-            "night_mode_url": "https://pica.zhimg.com/v2-a1eda7a6043cc2f390e67bc8c7095270.jpg?source=88ceefae",
+            "night_mode_url": "https://picx.zhimg.com/v2-a1eda7a6043cc2f390e67bc8c7095270.jpg?source=88ceefae",
             "url": "https://picx.zhimg.com/v2-028c47f81a131d65becd1ab9a89f479e.jpg?source=88ceefae"
         }
     },
