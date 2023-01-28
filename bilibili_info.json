@@ -1,4 +1,10 @@
 {
+    "archive": {
+        "view": 70
+    },
+    "article": {
+        "view": 0
+    },
     "birthday": "",
     "black": 0,
     "coins": 0,
@@ -22,7 +28,7 @@
         "wear": false
     },
     "follower": 3,
-    "following": 296,
+    "following": 297,
     "gaia_data": null,
     "gaia_res_type": 0,
     "is_followed": false,
@@ -30,6 +36,7 @@
     "is_senior_member": 0,
     "jointime": 0,
     "level": 4,
+    "likes": 4,
     "live_room": null,
     "mcn_info": null,
     "mid": 385883467,
