@@ -11,11 +11,11 @@
     "contract": null,
     "elec": {
         "show_info": {
-            "icon": "",
-            "jump_url": "",
+            "icon": "https://i0.hdslb.com/bfs/garb/item/33e2e72d9a0c855f036b4cb55448f44af67a0635.png",
+            "jump_url": "https://www.bilibili.com/h5/upower/index?mid=385883467&navhide=1",
             "show": false,
             "state": -1,
-            "title": ""
+            "title": "充电"
         }
     },
     "face": "https://i1.hdslb.com/bfs/face/c16020ea3a0e58d8d7ce3d52294add74c8d5dc2e.jpg",
@@ -84,7 +84,7 @@
     "sys_notice": {},
     "tags": null,
     "theme": {},
-    "top_photo": "http://i2.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png",
+    "top_photo": "http://i1.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png",
     "user_honour_info": {
         "colour": null,
         "mid": 0,
