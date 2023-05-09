@@ -6,7 +6,7 @@
     "elec": {
         "show_info": {
             "icon": "https://i0.hdslb.com/bfs/garb/item/33e2e72d9a0c855f036b4cb55448f44af67a0635.png",
-            "jump_url": "https://www.bilibili.com/h5/upower/index?mid=385883467&navhide=1",
+            "jump_url": "https://www.bilibili.com/h5/upower/index?mid=385883467&navhide=1&oid=385883467",
             "show": false,
             "state": -1,
             "title": "充电"
@@ -22,7 +22,7 @@
         "wear": false
     },
     "follower": 3,
-    "following": 338,
+    "following": 340,
     "gaia_data": null,
     "gaia_res_type": 0,
     "is_followed": false,
@@ -77,7 +77,7 @@
     "sys_notice": {},
     "tags": null,
     "theme": {},
-    "top_photo": "http://i2.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png",
+    "top_photo": "http://i1.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png",
     "user_honour_info": {
         "colour": null,
         "mid": 0,
@@ -105,6 +105,7 @@
         "role": 3,
         "status": 1,
         "theme_type": 0,
+        "tv_due_date": 1661616000,
         "tv_vip_pay_type": 0,
         "tv_vip_status": 0,
         "type": 2,
