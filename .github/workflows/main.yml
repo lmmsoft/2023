@@ -38,9 +38,9 @@ jobs:
       run: |
         python zhihu.py
 
-    - name: Update bilibili
-      run: |
-        python bilibili.py ${{ secrets.BILIBILI_SESSDATA }}
+#    - name: Update bilibili
+#      run: |
+#        python bilibili.py ${{ secrets.BILIBILI_SESSDATA }}
         
     - name: Commit
       run: |
