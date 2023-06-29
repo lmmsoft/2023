@@ -6,7 +6,7 @@
     "available_medals_count": 0,
     "avatar_hue": "",
     "avatar_url": "https://picx.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
-    "avatar_url_template": "https://picx.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
+    "avatar_url_template": "https://pic1.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
     "badge": [],
     "badge_v2": {
         "detail_badges": [],
@@ -16,7 +16,7 @@
         "title": ""
     },
     "business": {
-        "avatar_url": "https://pica.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
+        "avatar_url": "https://picx.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
         "id": "19550517",
         "name": "互联网",
         "type": "topic",
@@ -29,8 +29,8 @@
     "educations": [],
     "employments": [],
     "favorite_count": 3,
-    "favorited_count": 6628,
-    "follower_count": 6320,
+    "favorited_count": 6627,
+    "follower_count": 6321,
     "following_columns_count": 79,
     "following_count": 1603,
     "following_favlists_count": 20,
@@ -85,14 +85,9 @@
         "entrance_v2": null,
         "is_vip": false,
         "rename_await_days": 0,
-        "rename_days": "60",
+        "rename_days": "0",
         "rename_frequency": 0,
-        "vip_type": 1,
-        "widget": {
-            "id": "40017",
-            "night_mode_url": "https://picx.zhimg.com/v2-a1eda7a6043cc2f390e67bc8c7095270.jpg?source=88ceefae",
-            "url": "https://picx.zhimg.com/v2-028c47f81a131d65becd1ab9a89f479e.jpg?source=88ceefae"
-        }
+        "vip_type": 0
     },
     "vote_from_count": 0,
     "vote_to_count": 0,
