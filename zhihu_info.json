@@ -16,7 +16,7 @@
         "title": ""
     },
     "business": {
-        "avatar_url": "https://pic1.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
+        "avatar_url": "https://picx.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
         "id": "19550517",
         "name": "互联网",
         "type": "topic",
@@ -30,7 +30,7 @@
     "employments": [],
     "favorite_count": 3,
     "favorited_count": 6625,
-    "follower_count": 9723,
+    "follower_count": 10083,
     "following_columns_count": 79,
     "following_count": 1604,
     "following_favlists_count": 20,
@@ -59,7 +59,7 @@
     "is_realname": true,
     "locations": [
         {
-            "avatar_url": "https://pic1.zhimg.com/v2-c4ea2cf2874e37de62190e781529b3dd_l.jpg?source=32738c0c",
+            "avatar_url": "https://pica.zhimg.com/v2-c4ea2cf2874e37de62190e781529b3dd_l.jpg?source=32738c0c",
             "id": "19550818",
             "name": "上海",
             "type": "topic",
@@ -91,5 +91,5 @@
     },
     "vote_from_count": 0,
     "vote_to_count": 0,
-    "voteup_count": 5637
+    "voteup_count": 5638
 }
