@@ -5,8 +5,8 @@
     "articles_count": 2,
     "available_medals_count": 0,
     "avatar_hue": "",
-    "avatar_url": "https://pic1.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
-    "avatar_url_template": "https://pica.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
+    "avatar_url": "https://picx.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
+    "avatar_url_template": "https://pic1.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
     "badge": [],
     "badge_v2": {
         "detail_badges": [],
@@ -16,7 +16,7 @@
         "title": ""
     },
     "business": {
-        "avatar_url": "https://pic1.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
+        "avatar_url": "https://picx.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
         "id": "19550517",
         "name": "互联网",
         "type": "topic",
@@ -29,7 +29,7 @@
     "educations": [],
     "employments": [],
     "favorite_count": 3,
-    "favorited_count": 6625,
+    "favorited_count": 6626,
     "follower_count": 10061,
     "following_columns_count": 79,
     "following_count": 1608,
@@ -75,7 +75,7 @@
     "question_count": 21,
     "thank_from_count": 0,
     "thank_to_count": 0,
-    "thanked_count": 1817,
+    "thanked_count": 1818,
     "type": "people",
     "url": "https://www.zhihu.com/api/v4/people/mm.lou",
     "url_token": "mm.lou",
