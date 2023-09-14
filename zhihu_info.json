@@ -5,8 +5,8 @@
     "articles_count": 2,
     "available_medals_count": 0,
     "avatar_hue": "",
-    "avatar_url": "https://picx.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
-    "avatar_url_template": "https://pic1.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
+    "avatar_url": "https://pic1.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
+    "avatar_url_template": "https://picx.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
     "badge": [],
     "badge_v2": {
         "detail_badges": [],
@@ -24,7 +24,7 @@
     },
     "columns_count": 1,
     "commercial_question_count": 0,
-    "cover_url": "https://pic1.zhimg.com/v2-409c0e6ac1fd6fd6d82ab34e97a27dd5_r.jpg?source=32738c0c",
+    "cover_url": "https://pica.zhimg.com/v2-409c0e6ac1fd6fd6d82ab34e97a27dd5_r.jpg?source=32738c0c",
     "description": "",
     "educations": [],
     "employments": [],
@@ -59,7 +59,7 @@
     "is_realname": true,
     "locations": [
         {
-            "avatar_url": "https://pic1.zhimg.com/v2-c4ea2cf2874e37de62190e781529b3dd_l.jpg?source=32738c0c",
+            "avatar_url": "https://picx.zhimg.com/v2-c4ea2cf2874e37de62190e781529b3dd_l.jpg?source=32738c0c",
             "id": "19550818",
             "name": "上海",
             "type": "topic",
