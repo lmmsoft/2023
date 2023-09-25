@@ -1,12 +1,12 @@
 {
     "account_status": [],
     "allow_message": true,
-    "answer_count": 140,
+    "answer_count": 141,
     "articles_count": 2,
     "available_medals_count": 0,
     "avatar_hue": "",
-    "avatar_url": "https://picx.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
-    "avatar_url_template": "https://pic1.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
+    "avatar_url": "https://pic1.zhimg.com/9c586eb92cc879df61d8b8328165204f_l.jpg?source=32738c0c",
+    "avatar_url_template": "https://pica.zhimg.com/9c586eb92cc879df61d8b8328165204f.jpg?source=32738c0c",
     "badge": [],
     "badge_v2": {
         "detail_badges": [],
@@ -34,7 +34,7 @@
     "following_columns_count": 79,
     "following_count": 1611,
     "following_favlists_count": 20,
-    "following_question_count": 1943,
+    "following_question_count": 1944,
     "following_topic_count": 58,
     "gender": 0,
     "has_applying_column": false,
@@ -59,7 +59,7 @@
     "is_realname": true,
     "locations": [
         {
-            "avatar_url": "https://pic1.zhimg.com/v2-c4ea2cf2874e37de62190e781529b3dd_l.jpg?source=32738c0c",
+            "avatar_url": "https://pica.zhimg.com/v2-c4ea2cf2874e37de62190e781529b3dd_l.jpg?source=32738c0c",
             "id": "19550818",
             "name": "上海",
             "type": "topic",
@@ -91,5 +91,5 @@
     },
     "vote_from_count": 0,
     "vote_to_count": 0,
-    "voteup_count": 5647
+    "voteup_count": 5648
 }
