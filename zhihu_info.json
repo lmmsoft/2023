@@ -16,7 +16,7 @@
         "title": ""
     },
     "business": {
-        "avatar_url": "https://pic1.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
+        "avatar_url": "https://picx.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_l.jpg?source=32738c0c",
         "id": "19550517",
         "name": "互联网",
         "type": "topic",
@@ -29,7 +29,7 @@
     "educations": [],
     "employments": [],
     "favorite_count": 3,
-    "favorited_count": 6623,
+    "favorited_count": 6624,
     "follower_count": 10058,
     "following_columns_count": 79,
     "following_count": 1611,
@@ -75,7 +75,7 @@
     "question_count": 21,
     "thank_from_count": 0,
     "thank_to_count": 0,
-    "thanked_count": 1821,
+    "thanked_count": 1822,
     "type": "people",
     "url": "https://www.zhihu.com/api/v4/people/mm.lou",
     "url_token": "mm.lou",
