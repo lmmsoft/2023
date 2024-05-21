@@ -1,5 +1,5 @@
 # zhihu, bilibili, get_up
-requests==2.31.0
+requests==2.32.0
 
 # get_up
 PyGithub==1.57
